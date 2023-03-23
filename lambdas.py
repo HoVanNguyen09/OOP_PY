@@ -28,5 +28,6 @@ print(new_list)
 # TRỞ NÊN LÀ MỘT PHƯƠNG PHÁP GIÚP TỐI ƯU CODE RẤT TỐT VÀ NÓ THƯỜNG ĐƯỢC
 # SỬ DỤNG KHI XỬ LÝ CÁI LOGIC Ở TRONG CÁI CHƯƠNG TRÌNH CỦA CHÚNG TA Ở MỘT
 # KHOẢNG THỜI GIẮN NHẮN NHẤT ĐỊNH NÀO ĐÓ
+
 """NHƯỢC ĐIỂM"""
 # CÚ PHÁP CÓ VẼ PHỨC TẠP VÀ RẤT KHÓ CHO VIỆC PHẤT HIỆN VÀ XỮA LỖI.
